@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Multiples_of_3_and_5", "Multiples_of_3_and_5\1.Multiples_of_3_and_5.csproj", "{047D14BA-DED0-4D3E-B23D-4CA2D6EE73F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Even_Fibonacci_Numbers", "2.Even_Fibonacci_Numbers\2.Even_Fibonacci_Numbers.csproj", "{F718D4B0-A7DB-4A3E-A863-D081972BA822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Even_Fibonacci_Numbers", "2.Even_Fibonacci_Numbers\2.Even_Fibonacci_Numbers.csproj", "{F718D4B0-A7DB-4A3E-A863-D081972BA822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Largest_Prime_Factor", "3.Largest_Prime_Factor\3.Largest_Prime_Factor.csproj", "{7BAE1C5F-9862-4480-95C3-E7A3C6965014}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F718D4B0-A7DB-4A3E-A863-D081972BA822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F718D4B0-A7DB-4A3E-A863-D081972BA822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F718D4B0-A7DB-4A3E-A863-D081972BA822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
