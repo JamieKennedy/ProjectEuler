@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Multiples_of_3_and_5", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Even_Fibonacci_Numbers", "2.Even_Fibonacci_Numbers\2.Even_Fibonacci_Numbers.csproj", "{F718D4B0-A7DB-4A3E-A863-D081972BA822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Largest_Prime_Factor", "3.Largest_Prime_Factor\3.Largest_Prime_Factor.csproj", "{7BAE1C5F-9862-4480-95C3-E7A3C6965014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Largest_Prime_Factor", "3.Largest_Prime_Factor\3.Largest_Prime_Factor.csproj", "{7BAE1C5F-9862-4480-95C3-E7A3C6965014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Largest_Palindrome_Product", "4.Largest_Palindrome_Product\4.Largest_Palindrome_Product.csproj", "{297266D0-505C-4D2D-9566-2FFB7F6603D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BAE1C5F-9862-4480-95C3-E7A3C6965014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297266D0-505C-4D2D-9566-2FFB7F6603D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297266D0-505C-4D2D-9566-2FFB7F6603D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297266D0-505C-4D2D-9566-2FFB7F6603D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297266D0-505C-4D2D-9566-2FFB7F6603D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
