@@ -28,7 +28,7 @@ namespace _3.Largest_Prime_Factor {
             } else {
                 int boundry = (int)Math.Floor(Math.Sqrt(num));
 
-                for (int i = 3; i < boundry; i += 2) {
+                for (int i = 3; i <= boundry; i += 2) {
                     if (num % i == 0) {
                         return false;
                     }
