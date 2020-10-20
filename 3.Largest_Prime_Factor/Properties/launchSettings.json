@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "3.Largest_Prime_Factor": {
-      "commandName": "Project",
-      "commandLineArgs": "600851475143"
-    }
-  }
-}
